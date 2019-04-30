@@ -1,0 +1,11 @@
+Some resources along the way:
+
+YOLO/darknet/darkflow:
+https://www.linkedin.com/pulse/comparison-yolo-darknet-versus-darkflow-rasmus-kromann/
+https://towardsdatascience.com/yolov2-object-detection-using-darkflow-83db6aa5cf5f
+https://pjreddie.com/darknet/yolo/
+https://www.tensorflow.org/tutorials
+https://github.com/thtrieu/darkflow
+
+opencv crop:
+https://stackoverflow.com/questions/15341538/numpy-opencv-2-how-do-i-crop-non-rectangular-region
